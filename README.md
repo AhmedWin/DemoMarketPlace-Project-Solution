@@ -1,5 +1,4 @@
-# DemoMarketPlace-Project-Solution
-# Demo Marketplace Python Project Documentation
+# Demo Marketplace Project Documentation
 
 The Demo Marketplace is a Python project that simulates a simple marketplace where users can browse products, add them to their cart, and place orders. The project provides functionality for both regular users and administrators. Users can create accounts, log in, view the product catalog, add products to their cart, remove products from the cart, view their cart, and place orders. Administrators have additional privileges such as add/edit product or category
 
